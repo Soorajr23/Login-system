@@ -135,7 +135,7 @@ def registration():
 
 # Creating a File to access the Email ID and password for login system:
 
-file = input("\n Enter 1 to Create a new file else to access the created file: ")
+file = input("\n Enter 1 to Create a new file or 2 to access the created file: ")
 
 #Creating a Login Database File
 
